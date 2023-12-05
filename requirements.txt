@@ -3,3 +3,6 @@ datasets
 torch
 notebook
 accelerate
+torchvision
+pillow
+numpy
